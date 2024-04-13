@@ -15,4 +15,4 @@ Program Setup Steps - Using Intellij and Maven as per week 06 example video
 4) With Main.java open, run the program with the provided green arrow in Intellij.
 - Use the provided menu options to navigate and run the program.
 
-Video Demonstration Link - 
+Video Demonstration Link - https://youtu.be/dt0DORo5inY
